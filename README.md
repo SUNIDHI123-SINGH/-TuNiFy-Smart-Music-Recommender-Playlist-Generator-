@@ -1,4 +1,5 @@
 🎵 TuNiFy: Smart Music Recommender & Playlist Generator 🎶
+
 📌 Overview
 
 TuNiFy is a smart music recommendation system built with Python + Streamlit + Spotify API + Machine Learning.
